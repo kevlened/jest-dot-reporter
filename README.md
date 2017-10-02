@@ -29,3 +29,4 @@ module.exports = {
 ```
 
 You can checkout the expected output by running `npm run example`.
+
