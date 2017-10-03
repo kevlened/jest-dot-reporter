@@ -1,4 +1,4 @@
-# Simple dot reporter for jest [![Build Status](https://travis-ci.org/pierreroth64/jest-dot-reporter.svg?branch=master)](https://travis-ci.org/pierreroth64/jest-dot-reporter)
+# Simple dot reporter for jest [![Build Status](https://travis-ci.org/pierreroth64/jest-dot-reporter.svg?branch=master)](https://travis-ci.org/pierreroth64/jest-dot-reporter) [![npm version](https://badge.fury.io/js/jest-dot-reporter.svg)](https://badge.fury.io/js/jest-dot-reporter)
 
 ## Installation
 
