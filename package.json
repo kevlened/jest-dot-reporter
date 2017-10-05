@@ -1,6 +1,6 @@
 {
   "name": "jest-dot-reporter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple Dot reporter for Jest",
   "main": "./lib/index.js",
   "directories": {

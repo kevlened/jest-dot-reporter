@@ -37,3 +37,4 @@ npm install
 npm run example
 ```
 
+![Test run](./example/dot.gif?raw=true "Test run")
